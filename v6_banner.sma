@@ -6,20 +6,20 @@
 // ░░░╚═╝░░░░╚════╝░    ╚══════╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝
 //
 // ----------------------------------------------------------
-// 💎 EVAN SERVER | MATCH — NEON ONE-LINE PULSE BANNER v6 💎
+// 💎 EVAN SERVER | MATCH — NEON ONE-LINE PULSE BANNER 💎
 // 🌈 Ultra Neon Purple Theme + Smooth Pulse Light Effect
 // 🧠 Dynamic Live Info (Map, Players, Slots)
 // ⚡ Optimized, Non-Conflicting, and Lightweight
 // ✨ Designed & Coded by: V6 EHSAN
 // ----------------------------------------------------------
 //
-// 💬 Description (English):
+// 💬 Description :
 // Displays a stylish one-line neon HUD banner at the top of the screen.
 //
 // 🔹 Shows Server Name + Map + Player Count
 // 🔹 Fast Purple Pulse Light Animation
 // 🔹 Smooth Fade Effect & HUD-safe
-// 🔹 Works on CS 1.6 / CZ / HLDM
+// 🔹 Works on CS 1.6 / HLDS / ReHLDS
 // ----------------------------------------------------------
 
 #include <amxmodx>
@@ -29,7 +29,7 @@ new bool:g_fadeIn = true
 new Float:g_alpha = 0.0
 
 public plugin_init() {
-    register_plugin("Evan Server | Match - Neon OneLine Banner", "6.2", "V6 EHSAN")
+    register_plugin("Neon OneLine Banner", "1.0", "V6 EHSAN")
 
     // 🔹 Update every 0.08s for smooth neon pulse
     set_task(0.08, "ShowBanner", _, _, _, "b")
@@ -80,3 +80,4 @@ public ShowBanner() {
     set_hudmessage(adjusted_r, adjusted_g, adjusted_b, -1.0, 0.07, 2, 0.05, 0.05, 0.05, 0.05, 3)
     show_hudmessage(0, infoText)
 }
+
