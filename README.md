@@ -90,7 +90,7 @@ set_hudmessage(adjusted_r, adjusted_g, adjusted_b, -1.0, 0.07, 2, 0.05, 0.05, 0.
 ## 🌐 Links
 
 🔗 **Discord:** [Join Server](https://discord.com/invite/ENMnprrc8Y)  
-🔗 **GitHub:** [v6_banner_v4.2](https://github.com/itsV6/v6_banner_v4.2)  
+🔗 **GitHub:** [v6_banner](https://github.com/itsV6/v6_banner_v4.2)  
 🔗 **YouTube:** [@v6ehsan](https://www.youtube.com/@v6ehsan)
 
 ---
