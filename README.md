@@ -1,4 +1,5 @@
-# 💎 v6banner Dynamic info — Neon One-Line Pulse Banner (v4.2)
+# 💎 v6_banner Dynamic info 
+# — Neon One-Line Pulse Banner (v1.0)
 
 ### 🌈 Overview
 A stylish and lightweight AMXX plugin that displays a **single-line neon banner** at the top of the screen.  
@@ -37,7 +38,7 @@ perfect for modern servers and tournament setups.
 
 1. Copy the file:
    ```
-   v6banner.amxx
+   v6_banner.amxx
    ```
    into:
    ```
@@ -50,7 +51,7 @@ perfect for modern servers and tournament setups.
    ```
    and add this line:
    ```
-   v6banner.amxx
+   v6_banner.amxx
    ```
 
 3. Restart your server or change map.
@@ -78,7 +79,7 @@ set_hudmessage(adjusted_r, adjusted_g, adjusted_b, -1.0, 0.07, 2, 0.05, 0.05, 0.
 
 **Developer:** V6 EHSAN  
 **Design Concept:** Evan Server Project  
-**Version:** `4.2`  
+**Version:** `1.0`  
 **Type:** AMXX Plugin  
 **Language:** Pawn (AMX Mod X)  
 
