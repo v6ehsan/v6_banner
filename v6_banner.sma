@@ -10,7 +10,7 @@
 // 🌈 Ultra Neon Purple Theme + Smooth Pulse Light Effect
 // 🧠 Dynamic Live Info (Map, Players, Slots)
 // ⚡ Optimized, Non-Conflicting, and Lightweight
-// ✨ Designed & Coded by: V6 EHSAN
+// ✨ Designed & Coded by: v6 EhSaN
 // ----------------------------------------------------------
 //
 // 💬 Description :
@@ -80,4 +80,5 @@ public ShowBanner() {
     set_hudmessage(adjusted_r, adjusted_g, adjusted_b, -1.0, 0.07, 2, 0.05, 0.05, 0.05, 0.05, 3)
     show_hudmessage(0, infoText)
 }
+
 
