@@ -101,4 +101,4 @@ Please keep credits to `V6 EHSAN` when sharing or editing.
 
 ---
 
-© 2025 — v6 EhSaN | Evan Server Project
+© 2025 — v6 EhSaN | Evan Server Project NeW
