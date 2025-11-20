@@ -1,0 +1,28 @@
+Dynamic Neon Banner v2.0.0 Latest
+[2.0.0] - 2025-11-11
+
+✨ New Features
+
+🌈 Smooth neon fade-in/out animations added for a dynamic look.
+
+🖥️ Server Name (hostname) is now fully dynamic.
+
+🎨 Added 9 color modes (previously fixed to purple) for more customization.
+
+📊 Dynamic server info panel now shows Map & Player Count in real-time.
+
+🐞 Bug Fixes
+
+⚡ Fixed channel conflict issues that could cause duplicate or overlapping displays.
+
+📚 Documentation Updates
+
+📝 README updated with screenshots and a download link for easy setup.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Dynamic Neon Banner v1.0.0
+[1.0.0] - 2025-07-20
+Initial release
+Basic neon banner (fixed purple color)
